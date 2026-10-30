@@ -1,0 +1,999 @@
+{
+ "country": "MY-13",
+ "acts": [
+  {
+   "slug": "administrative-areas-ordinance-2000",
+   "short": "Administrative Areas Ordinance, 2000",
+   "title": "Administrative Areas Ordinance, 2000 (Cap. 34)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%20%2034%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 5,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%20%2034%20LawNet%202024.pdf",
+     "sha256": "34ee7eb8186a7f6d1caace7ae8a0b5c5b984ca9b84765d71ae6613a1946044fd"
+    }
+   ]
+  },
+  {
+   "slug": "adoption-ordinance-1942",
+   "short": "Adoption Ordinance, 1942",
+   "title": "Adoption Ordinance, 1942 (Cap. 91 (1958 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Adoption%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 13,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Adoption%20LawNet%202024.pdf",
+     "sha256": "6a9e58f9e9aee008262f07b2b29a015e4f51868ae1a6e01f46e8390774e39893"
+    }
+   ]
+  },
+  {
+   "slug": "advocates-ordinance-1953",
+   "short": "Advocates Ordinance, 1953",
+   "title": "Advocates Ordinance, 1953 (Cap. 110 (1958 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_ADVOCATES%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2023-12-31",
+     "units": 20,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_ADVOCATES%20LawNet%202024.pdf",
+     "sha256": "96d9c12b27c99d70a6d26566a91802c5e12e6bd0056bf0e464b3404f16da563e"
+    }
+   ]
+  },
+  {
+   "slug": "bintulu-development-authority-ordinance-1978",
+   "short": "Bintulu Development Authority Ordinance, 1978",
+   "title": "Bintulu Development Authority Ordinance, 1978 (Ord. No. 1/78)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_BDA%20LawNet%202024%20-%201.pdf",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 39,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_BDA%20LawNet%202024%20-%201.pdf",
+     "sha256": "93c280c42d00563cc60b97996170edf64f6b71c056963672113f7c754adaef2f"
+    }
+   ]
+  },
+  {
+   "slug": "brooke-dockyard-and-engineering-works-corporation-repeal-and-successor-company-o",
+   "short": "Brooke Dockyard and Engineering Works Corporation (Repeal and Successor Company) Ordinance, 1994",
+   "title": "Brooke Dockyard and Engineering Works Corporation (Repeal and Successor Company) Ordinance, 1994 (Cap. 11)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.11%20LawNet%202024%20%281%29.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 10,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.11%20LawNet%202024%20%281%29.pdf",
+     "sha256": "a339b1378d0980a387a229653d436b21168dd0ff194c8fc909e03e6b00380394"
+    }
+   ]
+  },
+  {
+   "slug": "charitable-trusts-ordinance-1994",
+   "short": "Charitable Trusts Ordinance, 1994",
+   "title": "Charitable Trusts Ordinance, 1994 (Cap. 7)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%207%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 20,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%207%20LawNet%202024.pdf",
+     "sha256": "fbd51a4cce1f356645d97d347bba7f66d6cdb58b6777ab19c1012e40f7677654"
+    }
+   ]
+  },
+  {
+   "slug": "city-of-kuching-north-ordinance-1988",
+   "short": "City of Kuching North Ordinance, 1988",
+   "title": "City of Kuching North Ordinance, 1988 (Cap. 49)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2049%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 21,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2049%20LawNet%202024.pdf",
+     "sha256": "7a4389020a82c55d8218ed6a10e5403ff58772537f8319f49d79e0ba07508744"
+    }
+   ]
+  },
+  {
+   "slug": "city-of-kuching-ordinance-1988",
+   "short": "City of Kuching Ordinance, 1988",
+   "title": "City of Kuching Ordinance, 1988 (Cap. 48)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2048%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 6,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2048%20LawNet%202024.pdf",
+     "sha256": "7ed10076029946045a59fecb3ec5e1757e76c1a3c4072b284f173e6b0f765a02"
+    }
+   ]
+  },
+  {
+   "slug": "civil-list-ordinance-1963",
+   "short": "Civil List Ordinance, 1963",
+   "title": "Civil List Ordinance, 1963 (Cap. 38)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP%20.%2038%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2013-10-11",
+     "units": 8,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP%20.%2038%20LawNet%202024.pdf",
+     "sha256": "f82d1149a85cc5688eb667bb4f14bf39df921c8ed5fa7a4a9861d4c54a6ea45d"
+    }
+   ]
+  },
+  {
+   "slug": "commissions-of-inquiry-ordinance-1958",
+   "short": "Commissions of Inquiry Ordinance, 1958",
+   "title": "Commissions of Inquiry Ordinance, 1958 (Cap. 6 (1958 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-INQUIRcp6%20Lawnet%202024%201.pdf",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 29,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-INQUIRcp6%20Lawnet%202024%201.pdf",
+     "sha256": "950826c5d533880781999d6e520a6f11cd999f9e848400e038e68cda0d589aed"
+    }
+   ]
+  },
+  {
+   "slug": "dewan-undangan-negeri-privileges-and-powers-ordinance-2007",
+   "short": "Dewan Undangan Negeri (Privileges and Powers) Ordinance, 2007",
+   "title": "Dewan Undangan Negeri (Privileges and Powers) Ordinance, 2007 (Cap. 65)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2065%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-06-30",
+     "units": 41,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2065%20LawNet%202024.pdf",
+     "sha256": "3e07728f29eb3127bc83af323f109f8422c1c8de1c86e7d26ee7bec8fa94e2d6"
+    }
+   ]
+  },
+  {
+   "slug": "distribution-of-gas-ordinance-2016",
+   "short": "Distribution Of Gas Ordinance, 2016",
+   "title": "Distribution Of Gas Ordinance, 2016 (Cap. 72)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_2025%20Cap.%2072%20Distribution%20of%20Gas%20LawNet%20.pdf",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 32,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_2025%20Cap.%2072%20Distribution%20of%20Gas%20LawNet%20.pdf",
+     "sha256": "547a7003faaa3014e5bd6060558acc872601d96ca274f1d626ead2197f9f3d70"
+    }
+   ]
+  },
+  {
+   "slug": "electricity-ordinance-2007",
+   "short": "Electricity Ordinance, 2007",
+   "title": "Electricity Ordinance, 2007 (Cap. 50)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2050%20Electricity%20LawNet%202024%20%282%29.pdf",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 37,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2050%20Electricity%20LawNet%202024%20%282%29.pdf",
+     "sha256": "d30b2abe7959e615e60dd46cea4389132987a7b78f6462ce1f9c1d3cfd8b9ed1"
+    }
+   ]
+  },
+  {
+   "slug": "entertainment-ordinance-2000",
+   "short": "Entertainment Ordinance, 2000",
+   "title": "Entertainment Ordinance, 2000 (Cap. 33)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2033%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 33,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2033%20LawNet%202024.pdf",
+     "sha256": "3f1241c95c49daa68b689b56e1ca217baec50470ea411d0955810220453836c5"
+    }
+   ]
+  },
+  {
+   "slug": "financial-procedure-contingencies-and-trust-funds-ordinance-1963",
+   "short": "Financial Procedure (Contingencies and Trust Funds) Ordinance, 1963",
+   "title": "Financial Procedure (Contingencies and Trust Funds) Ordinance, 1963 (Cap. 37)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2037%20LawNet%202024%20%283%29.pdf",
+   "versions": [
+    {
+     "from": "2024-11-30",
+     "units": 6,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2037%20LawNet%202024%20%283%29.pdf",
+     "sha256": "257ec48807c7e46eb8a04cf787e8869c660cc3592b8f7b8a64803c8ddcfef8cf"
+    }
+   ]
+  },
+  {
+   "slug": "forest-concession-area-rehabilitation-and-development-fund-ordinance-1985",
+   "short": "Forest Concession Area (rehabilitation and Development) Fund Ordinance, 1985",
+   "title": "Forest Concession Area (rehabilitation and Development) Fund Ordinance, 1985 (Ord. No. 7/85)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Forest%20Concession%20LAwnet%202024%20%201.pdf",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 12,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Forest%20Concession%20LAwnet%202024%20%201.pdf",
+     "sha256": "1c4bad30158f7f924ff472ede27638f56114d8e98c3401f891d614388a5d517c"
+    }
+   ]
+  },
+  {
+   "slug": "housing-development-corporation-ordinance-2002",
+   "short": "Housing Development Corporation Ordinance, 2002",
+   "title": "Housing Development Corporation Ordinance, 2002 (Cap. 52)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2052%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2018-12-31",
+     "units": 49,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2052%20LawNet%202024.pdf",
+     "sha256": "fd3049f4508e394f13edcfbca35ceb435cb99b317395724a58360615705706e5"
+    }
+   ]
+  },
+  {
+   "slug": "interpretation-ordinance-2005",
+   "short": "Interpretation Ordinance, 2005",
+   "title": "Interpretation Ordinance, 2005 (Cap. 61)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%2061%20LawNet%202024%20-%201.pdf",
+   "versions": [
+    {
+     "from": "2023-12-31",
+     "units": 65,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%2061%20LawNet%202024%20-%201.pdf",
+     "sha256": "090397ec76bd2b9c7f09d4f332114a438526146b521851f7df11df717e81f531"
+    }
+   ]
+  },
+  {
+   "slug": "land-custody-and-development-authority-ordinance-1981",
+   "short": "Land Custody and Development Authority Ordinance, 1981",
+   "title": "Land Custody and Development Authority Ordinance, 1981 (Ord. No. 4/81)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_LCDA4%20LAwNet%202024%20-%201.pdf",
+   "versions": [
+    {
+     "from": "2014-11-30",
+     "units": 37,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_LCDA4%20LAwNet%202024%20-%201.pdf",
+     "sha256": "1f6dcbb75b4a9485c60f103178d65d0d044cdc904dcc8d40f8ffb7b6ae588338"
+    }
+   ]
+  },
+  {
+   "slug": "land-use-control-of-prescribed-trading-activities-ordinance-1997",
+   "short": "Land Use (Control of Prescribed Trading Activities) Ordinance, 1997",
+   "title": "Land Use (Control of Prescribed Trading Activities) Ordinance, 1997 (Cap. 23)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2023%20LawNet.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 28,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2023%20LawNet.pdf",
+     "sha256": "350fd5a9bf057ca4fa8d1c21d034670eb628e75d553bab5a3d0b617f019099cb"
+    }
+   ]
+  },
+  {
+   "slug": "loans-and-loan-guarantees-ordinance-1999",
+   "short": "Loans and Loan Guarantees Ordinance, 1999",
+   "title": "Loans and Loan Guarantees Ordinance, 1999 (Cap. 31)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.31%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 26,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.31%20LawNet%202024.pdf",
+     "sha256": "7e4624952804fb5679fe890ca8b2e3685d56ae35d428095131c6c1f5d5007f8d"
+    }
+   ]
+  },
+  {
+   "slug": "majlis-adat-istiadat-sarawak-ordinance-1977",
+   "short": "Majlis Adat Istiadat Sarawak Ordinance, 1977",
+   "title": "Majlis Adat Istiadat Sarawak Ordinance, 1977 (Ord. No. 5/77)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Majlis%20Adat%20Istiadat%20Lawnet%202024%201.pdf",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 13,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Majlis%20Adat%20Istiadat%20Lawnet%202024%201.pdf",
+     "sha256": "6f11765935cb1b27ff5f6fba22b6d97e1288e3ba5d93908b1c515abf583aaa79"
+    }
+   ]
+  },
+  {
+   "slug": "minerals-ordinance-2004",
+   "short": "Minerals Ordinance, 2004",
+   "title": "Minerals Ordinance, 2004 (Cap. 56)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2056%20Lawnet%202024.pdf",
+   "versions": [
+    {
+     "from": "2018-12-31",
+     "units": 167,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2056%20Lawnet%202024.pdf",
+     "sha256": "634c578df43dc211c7b0aebd8574e6710a30c89fd395a22f31d0ce289fac7ed0"
+    }
+   ]
+  },
+  {
+   "slug": "national-parks-and-nature-reserves-ordinance-1998",
+   "short": "National Parks and Nature Reserves Ordinance, 1998",
+   "title": "National Parks and Nature Reserves Ordinance, 1998 (Cap. 27)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2027%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-05-31",
+     "units": 39,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2027%20LawNet%202024.pdf",
+     "sha256": "ceeee6d79e654a53315adf2d48b964416d21ef31422c3152f914df280f8f5865"
+    }
+   ]
+  },
+  {
+   "slug": "native-courts-ordinance-1992",
+   "short": "Native Courts Ordinance, 1992",
+   "title": "Native Courts Ordinance, 1992 (Ord. No. 9/92)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_NATIVE%20LAWNET%202024%20-%201.pdf",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 36,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_NATIVE%20LAWNET%202024%20-%201.pdf",
+     "sha256": "0921cd51206f1c7342f0ed401434564f661ba98e3d3a2009889454229f3d6bdd"
+    }
+   ]
+  },
+  {
+   "slug": "native-customary-marriages-maintenance-ordinance-2003",
+   "short": "Native Customary Marriages (Maintenance) Ordinance, 2003",
+   "title": "Native Customary Marriages (Maintenance) Ordinance, 2003 (Cap. 55)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%2055%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 16,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%2055%20LawNet%202024.pdf",
+     "sha256": "13923ffd636ba23e1abfc6b7d58db20d24e56b9515813546e124e53608fe04b4"
+    }
+   ]
+  },
+  {
+   "slug": "native-customs-declaration-ordinance-1996",
+   "short": "Native Customs (Declaration) Ordinance, 1996",
+   "title": "Native Customs (Declaration) Ordinance, 1996 (Cap. 22)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%20%2022%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 13,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%20%2022%20LawNet%202024.pdf",
+     "sha256": "86dab0503b49870a91f367ae58921e1d9e977c4cfd98274177afface8d033101"
+    }
+   ]
+  },
+  {
+   "slug": "natural-resources-and-environment-ordinance-1949",
+   "short": "Natural Resources And Environment Ordinance, 1949",
+   "title": "Natural Resources And Environment Ordinance, 1949 (Cap. 84 (1958 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_NRE%20ORD.%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 39,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_NRE%20ORD.%20LawNet%202024.pdf",
+     "sha256": "753d87b384fbd3a6281366b9a9fa685329ef30ad0070e22c43350212d73fee50"
+    }
+   ]
+  },
+  {
+   "slug": "port-authority-ordinance-1961",
+   "short": "Port Authority Ordinance, 1961",
+   "title": "Port Authority Ordinance, 1961 (Ord. No. 1/61)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-PORT1-61%20LawNet%202024%202.pdf",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 67,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-PORT1-61%20LawNet%202024%202.pdf",
+     "sha256": "61fa4557368fac675d674d0bedfab2d3835c1377204708ad39d6093ad01da60a"
+    }
+   ]
+  },
+  {
+   "slug": "promotion-of-commercial-agriculture-and-agro-based-industries-ordinance-2004",
+   "short": "Promotion of Commercial Agriculture and Agro-based Industries Ordinance, 2004",
+   "title": "Promotion of Commercial Agriculture and Agro-based Industries Ordinance, 2004 (Cap. 58)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2058%20Lawnet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 13,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2058%20Lawnet%202024.pdf",
+     "sha256": "42dd23175ba63cd9e901ad3ad30fed538691c32421bd7a29552d50f1e1fe9ef8"
+    }
+   ]
+  },
+  {
+   "slug": "protection-of-public-health-ordinance-1999",
+   "short": "Protection of Public Health Ordinance, 1999",
+   "title": "Protection of Public Health Ordinance, 1999 (Cap. 30)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.30%20LawNet%202024%20-%201.pdf",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 68,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.30%20LawNet%202024%20-%201.pdf",
+     "sha256": "26e2c995b5757a01b6b97422cb1c0691eff6811c783cbffb6d70c5e4302590f9"
+    }
+   ]
+  },
+  {
+   "slug": "public-service-commission-additional-functions-ordinance-2001",
+   "short": "Public Service Commission (Additional Functions) Ordinance, 2001",
+   "title": "Public Service Commission (Additional Functions) Ordinance, 2001 (Cap. 39)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2039%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 6,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2039%20LawNet%202024.pdf",
+     "sha256": "0b2f00d27b20ccd1e09caeaa36a9d4d83c394e9fe97f98cdf0b2174f17ac0db4"
+    }
+   ]
+  },
+  {
+   "slug": "regional-corridors-development-authorities-ordinance-2006",
+   "short": "Regional Corridors Development Authorities Ordinance, 2006",
+   "title": "Regional Corridors Development Authorities Ordinance, 2006 (Cap. 64)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-Cap64%20LawNet%202024%20-%201.pdf",
+   "versions": [
+    {
+     "from": "2021-02-05",
+     "units": 32,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-Cap64%20LawNet%202024%20-%201.pdf",
+     "sha256": "bba7d8608be881c40bf19c1300683c30311b28363ace2e006b38b6c486626a3b"
+    }
+   ]
+  },
+  {
+   "slug": "registration-of-births-and-deaths-ordinance-1958",
+   "short": "Registration of Births and Deaths Ordinance, 1958",
+   "title": "Registration of Births and Deaths Ordinance, 1958 (Cap. 10 (1958 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Registration%20Birth%20and%20Death%20Lawnet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 30,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Registration%20Birth%20and%20Death%20Lawnet%202024.pdf",
+     "sha256": "45ab6072a3de7a2b36a01453a2546a011b5de118382a40053b8590671569f68e"
+    }
+   ]
+  },
+  {
+   "slug": "revision-of-laws-ordinance-1992",
+   "short": "Revision Of Laws Ordinance, 1992",
+   "title": "Revision Of Laws Ordinance, 1992 (Cap. 1)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap1%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 23,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap1%20LawNet%202024.pdf",
+     "sha256": "3fec132e7f452c915c40023a99af935065ac9376d4cc834fa2bad5d4e38bd4dc"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-biodiversity-centre-ordinance-1997",
+   "short": "Sarawak Biodiversity Centre Ordinance, 1997",
+   "title": "Sarawak Biodiversity Centre Ordinance, 1997 (Cap. 24)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2024%20SBC%20LawNet%202025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 36,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2024%20SBC%20LawNet%202025.pdf",
+     "sha256": "64bcbc1fbd8772f34634359f6294893091b90725e80919ec35cc938291aa5c5a"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-economic-development-corporation-1958",
+   "short": "Sarawak Economic Development Corporation, 1958",
+   "title": "Sarawak Economic Development Corporation, 1958 (Cap. 35 (1958 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_LawNet%202026%20SEDC%20Ord.%20Cap.%2035%20%281958%20Ed%29%20%281%29.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 63,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_LawNet%202026%20SEDC%20Ord.%20Cap.%2035%20%281958%20Ed%29%20%281%29.pdf",
+     "sha256": "e5afe3dad9134a80331edfd7f555b777971a8c6be14185f6ab1fcd1ae6dd9508"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-electricity-supply-corporation-successor-company-ordinance-2004",
+   "short": "Sarawak Electricity Supply Corporation (Successor Company) Ordinance, 2004",
+   "title": "Sarawak Electricity Supply Corporation (Successor Company) Ordinance, 2004 (Cap. 59)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2059%20LawNet%202024%201.pdf",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 11,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2059%20LawNet%202024%201.pdf",
+     "sha256": "5955e24e75a7aaf21072e4c097596b4bdae8ef6c2573ce18b5a88534c4cea124"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-forestry-corporation-ordinance-1995",
+   "short": "Sarawak Forestry Corporation Ordinance, 1995",
+   "title": "Sarawak Forestry Corporation Ordinance, 1995 (Cap. 17)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.17%20%20LawNet%20%202024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 36,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.17%20%20LawNet%20%202024.pdf",
+     "sha256": "8d8e01f918ada56b85cb619f0dd2eef93b4b2ebdcef586c3caaee1734a467c3a"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-foundation-ordinance-1971",
+   "short": "Sarawak Foundation Ordinance, 1971",
+   "title": "Sarawak Foundation Ordinance, 1971 (Ord. No. 4/71)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F_SWAK4-71%20LawNet%202024%20%201.pdf",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 17,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F_SWAK4-71%20LawNet%202024%20%201.pdf",
+     "sha256": "28292f7f2295b178298e01f3e9c18189edef5693fbe69b0ec458378669e68eff"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-sports-corporation-ordinance-2009",
+   "short": "Sarawak Sports Corporation Ordinance, 2009",
+   "title": "Sarawak Sports Corporation Ordinance, 2009 (Cap. 67)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2067%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 28,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2067%20LawNet%202024.pdf",
+     "sha256": "a4cf519ef792dc89dd4d104cc63635afcf78a9e517300181af912831ca88c368"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-timber-industry-development-corporation-ordinance-1973",
+   "short": "Sarawak Timber Industry Development Corporation Ordinance, 1973",
+   "title": "Sarawak Timber Industry Development Corporation Ordinance, 1973 (Ord. No. 3/73)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-stidc%20LawNet%202024%201.pdf",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 41,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-stidc%20LawNet%202024%201.pdf",
+     "sha256": "730d92c681c975054e407bc993433749b43598f17b4cff85a64b73093554d015"
+    }
+   ]
+  },
+  {
+   "slug": "sewerage-systems-and-services-ordinance-2005",
+   "short": "Sewerage Systems and Services Ordinance, 2005",
+   "title": "Sewerage Systems and Services Ordinance, 2005 (Cap. 63)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2063%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 30,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2063%20LawNet%202024.pdf",
+     "sha256": "1a2a11f890c4b8891f443a85eec4dc80094e8c012d9e92a5440f5e4f376bb71b"
+    }
+   ]
+  },
+  {
+   "slug": "state-anthem-and-emblems-ordinance-2002",
+   "short": "State Anthem and Emblems Ordinance, 2002",
+   "title": "State Anthem and Emblems Ordinance, 2002 (Cap. 53)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2053%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 13,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2053%20LawNet%202024.pdf",
+     "sha256": "3a01cf88eade542e7abfc0ae1e24d2f4a757528e99ab24cf07a9175674fd0db8"
+    }
+   ]
+  },
+  {
+   "slug": "state-financial-secretary-incorporation-ordinance-2000",
+   "short": "State Financial Secretary (Incorporation) Ordinance, 2000",
+   "title": "State Financial Secretary (Incorporation) Ordinance, 2000 (Cap. 36)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2036%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 6,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2036%20LawNet%202024.pdf",
+     "sha256": "b634e606686e7566543c3119de8692b02fa1c248673c0a90e9d7422cd1a66cd1"
+    }
+   ]
+  },
+  {
+   "slug": "state-public-service-conditions-of-service-ordinance-1994",
+   "short": "State Public Service (Conditions of Service) Ordinance, 1994",
+   "title": "State Public Service (Conditions of Service) Ordinance, 1994 (Cap. 12)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CHAP.12%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 6,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CHAP.12%20LawNet%202024.pdf",
+     "sha256": "9c151667a4c22ad4871c491b385a9175fb03f99abc34e3d12ea6c3895f73afd4"
+    }
+   ]
+  },
+  {
+   "slug": "state-roads-ordinance-1994",
+   "short": "State Roads Ordinance, 1994",
+   "title": "State Roads Ordinance, 1994 (Cap. 9)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%209%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 12,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%209%20LawNet%202024.pdf",
+     "sha256": "c13bad1b375847fa6857d60973bbdbe4f13f89209159d5b465f901d5e1fe0e86"
+    }
+   ]
+  },
+  {
+   "slug": "state-sales-tax-ordinance-1998",
+   "short": "State Sales Tax Ordinance, 1998",
+   "title": "State Sales Tax Ordinance, 1998 (Cap. 25)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2025%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 63,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2025%20LawNet%202024.pdf",
+     "sha256": "5a6484a1ecd8d299370d564a749c4a4ddf2985df407cacaf48395a8999b7cbb0"
+    }
+   ]
+  },
+  {
+   "slug": "syariah-courts-ordinance-2001",
+   "short": "Syariah Courts Ordinance, 2001",
+   "title": "Syariah Courts Ordinance, 2001 (Cap. 42)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2042%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-03-31",
+     "units": 29,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2042%20LawNet%202024.pdf",
+     "sha256": "5fc6f6d178493e41533d8264e15613e8538b2741c735abdeb6420ba8f9c3af6e"
+    }
+   ]
+  },
+  {
+   "slug": "syariah-criminal-offences-ordinance-2001",
+   "short": "Syariah Criminal Offences Ordinance, 2001",
+   "title": "Syariah Criminal Offences Ordinance, 2001 (Cap. 46)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2046%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 55,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2046%20LawNet%202024.pdf",
+     "sha256": "cc8a23da78e8ec0d091f835d1846f2ff0ce3013f0cf966510e3123e88ec2d31c"
+    }
+   ]
+  },
+  {
+   "slug": "syariah-evidence-ordinance-2001",
+   "short": "Syariah Evidence Ordinance, 2001",
+   "title": "Syariah Evidence Ordinance, 2001 (Cap. 47)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2047%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 132,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2047%20LawNet%202024.pdf",
+     "sha256": "cf2b68f75dd3ee68073658cf0c31dac0f24d96a138031ae8554866fdb2b0e57a"
+    }
+   ]
+  },
+  {
+   "slug": "water-ordinance-1994",
+   "short": "Water Ordinance, 1994",
+   "title": "Water Ordinance, 1994 (Cap. 13)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.13%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-05-31",
+     "units": 68,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.13%20LawNet%202024.pdf",
+     "sha256": "5609bb3f5d5f3ddef83d0e10c1fbff230b7f584c78a456d321ee03842f43b3b1"
+    }
+   ]
+  },
+  {
+   "slug": "written-law-simplified-publication-ordinance-2000",
+   "short": "Written Law (Simplified Publication) Ordinance, 2000",
+   "title": "Written Law (Simplified Publication) Ordinance, 2000 (Cap. 35)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2035%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 6,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2035%20LawNet%202024.pdf",
+     "sha256": "142107dc15a50ec201ddffd74b938d46fc3d452c0a6cf10292477477dbd3ac6c"
+    }
+   ]
+  },
+  {
+   "slug": "administration-of-estates-ordinance-1933",
+   "short": "Administration of Estates Ordinance, 1933",
+   "title": "Administration of Estates Ordinance, 1933 (Cap. 80 (1948 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-ADMIN%20ESTATE%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 35,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-ADMIN%20ESTATE%20LawNet%202024.pdf",
+     "sha256": "89604cfd5231676c4f2a4f8cdaab602f81fcd43dbb2bae8ec5523a990129768d"
+    }
+   ]
+  },
+  {
+   "slug": "application-of-laws-ordinance-1958",
+   "short": "Application of Laws Ordinance, 1958",
+   "title": "Application of Laws Ordinance, 1958 (Cap. 2 (1958 Ed.))",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-APPLICcp2%20Lawnet%202024%201.pdf",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 5,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_F-APPLICcp2%20Lawnet%202024%201.pdf",
+     "sha256": "f8ba4d12a2bd7b56c09cfe3b4aac7fc4ffbad4650405887095a4f87e6f4b9954"
+    }
+   ]
+  },
+  {
+   "slug": "fisheries-adoption-ordinance-1994",
+   "short": "Fisheries (Adoption) Ordinance, 1994",
+   "title": "Fisheries (Adoption) Ordinance, 1994 (Cap. 10)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2054%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 75,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2054%20LawNet%202024.pdf",
+     "sha256": "3107b497e5673b783e2f2d33880cbf69670f679a95a49cfa1676818ef10b8d0e"
+    }
+   ]
+  },
+  {
+   "slug": "forests-ordinance-2015",
+   "short": "Forests Ordinance, 2015",
+   "title": "Forests Ordinance, 2015 (Cap. 71)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%2071%20Forest%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 115,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%2071%20Forest%20LawNet%202024.pdf",
+     "sha256": "4b3722939fe91f16965563166a0102d35476d6f24bd82ae4bdfa03ac82ba047d"
+    }
+   ]
+  },
+  {
+   "slug": "islamic-family-law-ordinance-2001",
+   "short": "Islamic Family Law Ordinance, 2001",
+   "title": "Islamic Family Law Ordinance, 2001 (Cap. 43)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%20%2043%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 142,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%20%2043%20LawNet%202024.pdf",
+     "sha256": "02fc06e27eee1f77b6271436c873d8651d957f26d4f5ef8ebee25ff94f28babd"
+    }
+   ]
+  },
+  {
+   "slug": "land-surveyors-ordinance-2001",
+   "short": "Land Surveyors Ordinance, 2001",
+   "title": "Land Surveyors Ordinance, 2001 (Cap. 40)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2040%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 34,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2040%20LawNet%202024.pdf",
+     "sha256": "a945f82be11f246182a5704a0a65ee21ec6b621bb5c3a9580974c42190d28f6e"
+    }
+   ]
+  },
+  {
+   "slug": "local-authorities-ordinance-1996",
+   "short": "Local Authorities Ordinance, 1996",
+   "title": "Local Authorities Ordinance, 1996 (Cap. 20)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.20%20Lawnet%202025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 177,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.20%20Lawnet%202025.pdf",
+     "sha256": "49fa4fcdc3aa52405f5202e137f4e662fbdec07e35074f914929ea578a0c5b1a"
+    }
+   ]
+  },
+  {
+   "slug": "majlis-islam-sarawak-ordinance-2001",
+   "short": "Majlis Islam Sarawak Ordinance, 2001",
+   "title": "Majlis Islam Sarawak Ordinance, 2001 (Cap. 41)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2041%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-03-31",
+     "units": 89,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2041%20LawNet%202024.pdf",
+     "sha256": "dbc2a644bae73d304c4ff300aae915c5852a4272c5945e34d5692484eab64515"
+    }
+   ]
+  },
+  {
+   "slug": "pension-and-other-benefits-yang-di-pertua-negeri-ordinance-1984",
+   "short": "Pension and Other Benefits (Yang Di-Pertua Negeri) Ordinance, 1984",
+   "title": "Pension and Other Benefits (Yang Di-Pertua Negeri) Ordinance, 1984 (Ord. No. 1/84)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_PENSION%20ORD%201-84%20LawNet%202024%201.pdf",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 21,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_PENSION%20ORD%201-84%20LawNet%202024%201.pdf",
+     "sha256": "a259bcf7d9c6fa14d94b374766b4442da8d42dc0801488f1cfce8bbc442392ad"
+    }
+   ]
+  },
+  {
+   "slug": "public-collections-ordinance-1996",
+   "short": "Public Collections Ordinance, 1996",
+   "title": "Public Collections Ordinance, 1996 (Cap. 21)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2021%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 20,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2021%20LawNet%202024.pdf",
+     "sha256": "b78fe5d808c623048a0b4b092d6da872073ae74743fcad1eb2c2eefd9b939ba1"
+    }
+   ]
+  },
+  {
+   "slug": "public-service-commission-remuneration-ordinance-1993",
+   "short": "Public Service Commission (remuneration) Ordinance, 1993",
+   "title": "Public Service Commission (remuneration) Ordinance, 1993 (Cap. 2)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.2%20LawNet%202024%20-%202.pdf",
+   "versions": [
+    {
+     "from": "2024-08-31",
+     "units": 5,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.2%20LawNet%202024%20-%202.pdf",
+     "sha256": "9911960d9cd2096cb3d7c31a5ebbb3a93894e27b1d1d0e3ba5b4abeb79f41767"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-state-library-ordinance-1999",
+   "short": "Sarawak State Library Ordinance, 1999",
+   "title": "Sarawak State Library Ordinance, 1999 (Cap. 29)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2029%20Lawnet%202024%20%281%29.pdf",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 32,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2029%20Lawnet%202024%20%281%29.pdf",
+     "sha256": "432e2520fa7b1b87edf2481a757a84268977c643d842f78c50f8112cc2a96e5d"
+    }
+   ]
+  },
+  {
+   "slug": "statutory-bodies-conduct-and-discipline-ordinance-2004",
+   "short": "Statutory Bodies (Conduct and Discipline) Ordinance, 2004",
+   "title": "Statutory Bodies (Conduct and Discipline) Ordinance, 2004 (Cap. 57)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2057%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-11-30",
+     "units": 22,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2057%20LawNet%202024.pdf",
+     "sha256": "6681603a5903ea54f08196df0da7a7ceb3caa04501bae65218518a73db604ae2"
+    }
+   ]
+  },
+  {
+   "slug": "statutory-bodies-financial-and-accounting-procedure-ordinance-1995",
+   "short": "Statutory Bodies (Financial and Accounting Procedure) Ordinance, 1995",
+   "title": "Statutory Bodies (Financial and Accounting Procedure) Ordinance, 1995 (Cap. 15)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2015%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-11-30",
+     "units": 22,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2015%20LawNet%202024.pdf",
+     "sha256": "c7b7cb01908a6729011e80a55c44a568292149a683ffc9959b6267a2ae1c01d2"
+    }
+   ]
+  },
+  {
+   "slug": "syariah-civil-procedure-ordinance-2001",
+   "short": "Syariah Civil Procedure Ordinance, 2001",
+   "title": "Syariah Civil Procedure Ordinance, 2001 (Cap. 44)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2044%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 251,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2044%20LawNet%202024.pdf",
+     "sha256": "daf6f98af829e26afc9687fbaf3197eda719466e72da45bcc3d789434e017c5b"
+    }
+   ]
+  },
+  {
+   "slug": "syariah-criminal-procedure-ordinance-2001",
+   "short": "Syariah Criminal Procedure Ordinance, 2001",
+   "title": "Syariah Criminal Procedure Ordinance, 2001 (Cap. 45)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.45%20LAwNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-03-31",
+     "units": 232,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.45%20LAwNet%202024.pdf",
+     "sha256": "244381fd01822536374ff079358ec3cc13622523195d89388b20b8f4a3a16043"
+    }
+   ]
+  },
+  {
+   "slug": "veterinary-public-health-ordinance-1999",
+   "short": "Veterinary Public Health Ordinance, 1999",
+   "title": "Veterinary Public Health Ordinance, 1999 (Cap. 32)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2032%20VETERINARY%20LAWNET%202024%20%202.pdf",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 106,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2032%20VETERINARY%20LAWNET%202024%20%202.pdf",
+     "sha256": "36f93597d6253fbfe1e174261897323d408b11c641631963c79b06195c879536"
+    }
+   ]
+  },
+  {
+   "slug": "wild-life-protection-ordinance-1998",
+   "short": "Wild Life Protection Ordinance, 1998",
+   "title": "Wild Life Protection Ordinance, 1998 (Cap. 26)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2026%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2008-06-30",
+     "units": 58,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%2026%20LawNet%202024.pdf",
+     "sha256": "bbae225780b5bba58b500886395011e8f83f04955757727b5856b13debea640f"
+    }
+   ]
+  }
+ ]
+}

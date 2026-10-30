@@ -1,0 +1,22 @@
+Law texts
+
+The texts in this repository are Ordinances of the State of Sarawak as published, in English, on Sarawak LawNet
+(https://lawnet.sarawak.gov.my) by the State Attorney-General's Chambers, Sarawak: the online versions of the updated
+text of the reprints, each incorporating all amendments up to the date its cover states.
+
+- Copyright: the Copyright Act 1987 [Act 332] of Malaysia, section 3, defines "literary work" and ends: "but does not
+  include official texts of the Government or statutory bodies of a legislative or regulatory nature, or judicial
+  decisions, or political speeches and political debates, or speeches delivered in the course of legal proceedings,
+  and the official translation thereof". (Quoted from the Attorney General's Chambers' online reprint of Act 332, as
+  at 1 July 2012.) The Ordinances are official texts of a legislative nature.
+- The site's footer reads "Copyright 2011 Sarawak Government. All Rights Reserved." Its disclaimer gives no warranty
+  of completeness or accuracy and says: "A print out from this System is not a copy of the State Government Gazette
+  printed by the State Government Printer. For the purpose of any legal proceeding, authoritative copy of the law as
+  printed by the State Government Printer should be used." The site states no terms that restrict reuse.
+- The texts are reproduced without change to their wording; only the arrangement (one file per section, one paragraph
+  per line) is Lexifina's. The State Attorney-General's Chambers does not endorse this repository.
+
+Attribution: Source: State Attorney-General's Chambers, Sarawak, Sarawak LawNet, https://lawnet.sarawak.gov.my.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
