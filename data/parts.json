@@ -1,0 +1,91 @@
+{
+ "parts": {
+  "20-ordinances-01.json": {
+   "acts": [
+    "administrative-areas-ordinance-2000",
+    "adoption-ordinance-1942",
+    "advocates-ordinance-1953",
+    "bintulu-development-authority-ordinance-1978",
+    "brooke-dockyard-and-engineering-works-corporation-repeal-and-successor-company-o",
+    "charitable-trusts-ordinance-1994",
+    "city-of-kuching-north-ordinance-1988",
+    "city-of-kuching-ordinance-1988",
+    "civil-list-ordinance-1963",
+    "commissions-of-inquiry-ordinance-1958",
+    "dewan-undangan-negeri-privileges-and-powers-ordinance-2007",
+    "distribution-of-gas-ordinance-2016",
+    "electricity-ordinance-2007",
+    "entertainment-ordinance-2000",
+    "financial-procedure-contingencies-and-trust-funds-ordinance-1963",
+    "forest-concession-area-rehabilitation-and-development-fund-ordinance-1985",
+    "housing-development-corporation-ordinance-2002",
+    "interpretation-ordinance-2005",
+    "land-custody-and-development-authority-ordinance-1981",
+    "land-use-control-of-prescribed-trading-activities-ordinance-1997",
+    "loans-and-loan-guarantees-ordinance-1999",
+    "majlis-adat-istiadat-sarawak-ordinance-1977",
+    "minerals-ordinance-2004",
+    "national-parks-and-nature-reserves-ordinance-1998",
+    "native-courts-ordinance-1992",
+    "native-customary-marriages-maintenance-ordinance-2003",
+    "native-customs-declaration-ordinance-1996",
+    "natural-resources-and-environment-ordinance-1949",
+    "port-authority-ordinance-1961",
+    "promotion-of-commercial-agriculture-and-agro-based-industries-ordinance-2004",
+    "protection-of-public-health-ordinance-1999",
+    "public-service-commission-additional-functions-ordinance-2001",
+    "regional-corridors-development-authorities-ordinance-2006",
+    "registration-of-births-and-deaths-ordinance-1958",
+    "revision-of-laws-ordinance-1992",
+    "sarawak-biodiversity-centre-ordinance-1997",
+    "sarawak-economic-development-corporation-1958",
+    "sarawak-electricity-supply-corporation-successor-company-ordinance-2004",
+    "sarawak-forestry-corporation-ordinance-1995",
+    "sarawak-foundation-ordinance-1971",
+    "sarawak-sports-corporation-ordinance-2009",
+    "sarawak-timber-industry-development-corporation-ordinance-1973",
+    "sewerage-systems-and-services-ordinance-2005",
+    "state-anthem-and-emblems-ordinance-2002",
+    "state-financial-secretary-incorporation-ordinance-2000",
+    "state-public-service-conditions-of-service-ordinance-1994",
+    "state-roads-ordinance-1994",
+    "state-sales-tax-ordinance-1998",
+    "syariah-courts-ordinance-2001",
+    "syariah-criminal-offences-ordinance-2001"
+   ],
+   "sha256": "3136e9b0285922555e4f475cd6f709057774f793be6a79d2b8b869435ca76a49"
+  },
+  "20-ordinances-02.json": {
+   "acts": [
+    "syariah-evidence-ordinance-2001",
+    "water-ordinance-1994",
+    "written-law-simplified-publication-ordinance-2000"
+   ],
+   "sha256": "aa07b8e90a5b2ff90a34233487571c15a5adffdebeb955501efab2aebfa69329"
+  },
+  "20-ordinances-03.json": {
+   "acts": [
+    "administration-of-estates-ordinance-1933",
+    "application-of-laws-ordinance-1958",
+    "fisheries-adoption-ordinance-1994",
+    "forests-ordinance-2015",
+    "islamic-family-law-ordinance-2001",
+    "land-surveyors-ordinance-2001",
+    "local-authorities-ordinance-1996",
+    "majlis-islam-sarawak-ordinance-2001",
+    "pension-and-other-benefits-yang-di-pertua-negeri-ordinance-1984",
+    "public-collections-ordinance-1996",
+    "public-service-commission-remuneration-ordinance-1993",
+    "sarawak-state-library-ordinance-1999",
+    "statutory-bodies-conduct-and-discipline-ordinance-2004",
+    "statutory-bodies-financial-and-accounting-procedure-ordinance-1995",
+    "syariah-civil-procedure-ordinance-2001",
+    "syariah-criminal-procedure-ordinance-2001",
+    "veterinary-public-health-ordinance-1999",
+    "wild-life-protection-ordinance-1998"
+   ],
+   "sha256": "dd4cb8c81edfc7bdf93c7bd3a6568038f9d7515d2bf7dffd9260e9c01407e8fe"
+  }
+ },
+ "schema": 1
+}
