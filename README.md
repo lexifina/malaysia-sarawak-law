@@ -6,13 +6,13 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 ## What this repository holds
 
-**Current text only, not yet a history.** Sarawak LawNet publishes each Ordinance as an online version of the updated text of its reprint, "incorporating all amendments up to" a stated date, with no earlier consolidated text. So each Ordinance is one commit holding its whole text as of that date, credited to the State Attorney-General's Chambers ("oldest version available"), not to an amending law.
+**Current text only, not yet a history.** Sarawak LawNet publishes online reprints of updated Ordinance text, with no earlier consolidated text for these records. Most reprints state on the cover the date through which amendments are incorporated. Public Parks and Greens Ordinance, 1993 and Sarawak Rivers Ordinance, 1993 instead state the in-force date of their latest amendment in the final List of Amendments. Each Ordinance has one commit holding that reprint's text, credited to the State Attorney-General's Chambers ("oldest version available"), not to an amending law.
 
 | Folder | What |
 | --- | --- |
 | one folder per Ordinance (by its short title, e.g. `advocates-ordinance-1953/`) | the Ordinance as reprinted: `000-title.md`, one file per section, one per Schedule |
 
-The Ordinances are added in parts of about fifty, in the order of LawNet's full listing. Subsidiary legislation is not included. An Ordinance is left out until it can be read reliably: reprints whose Schedules hold tables or forms the independent check below does not find in the same order, and reprints whose cover gives no "amendments up to" date.
+The Ordinances are added in parts in the order of LawNet's full listing. Subsidiary legislation is not included. An Ordinance is left out until its text can be read reliably and its current version can be dated from the source. This includes reprints whose Schedules hold tables or forms the independent check below does not find in the same order, and reprints with neither a cover amendment date nor a dated final List of Amendments entry.
 
 ## Source
 
@@ -20,7 +20,7 @@ The Ordinances are added in parts of about fifty, in the order of LawNet's full 
 
 ## Dates
 
-Each Ordinance's version is dated by the day its reprint's cover says amendments are incorporated up to, at noon in Kuching. That is the day the consolidation reaches, not the day of the last amendment.
+For most Ordinances, the version date is the day the reprint's cover says amendments are incorporated up to. That is the day the consolidation reaches, not necessarily the day of the last amendment. Public Parks and Greens Ordinance, 1993 is dated 1 January 2004 and Sarawak Rivers Ordinance, 1993 is dated 1 January 2007: their reprints' final List of Amendments gives those dates as the in-force dates of their latest amendments. Version times are noon in Kuching.
 
 ## How it is built
 

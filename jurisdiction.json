@@ -1,8 +1,9 @@
 {
-  "path": "my-13",
+  "path": "malaysia/sarawak",
   "code": "MY-13",
   "name": "Sarawak",
-  "level": "country",
+  "level": "subdivision",
+  "parent": "malaysia",
   "repo": "https://github.com/lexifina/malaysia-sarawak-law",
   "build": "built: Sarawak Ordinances, current text from the State Attorney-General's Chambers' LawNet reprints"
 }
