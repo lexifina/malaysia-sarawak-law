@@ -1,5 +1,9 @@
 {
  "parts": {
+  "00-sarawak-metadata.json": {
+   "acts": [],
+   "sha256": "e024656afeb17bf155dc1cd26e1cc436a8b4b172813f161a0b7a1f6136626552"
+  },
   "20-ordinances-01.json": {
    "acts": [
     "administrative-areas-ordinance-2000",
@@ -85,6 +89,13 @@
     "wild-life-protection-ordinance-1998"
    ],
    "sha256": "dd4cb8c81edfc7bdf93c7bd3a6568038f9d7515d2bf7dffd9260e9c01407e8fe"
+  },
+  "20-ordinances-04.json": {
+   "acts": [
+    "public-parks-and-greens-ordinance-1993",
+    "sarawak-rivers-ordinance-1993"
+   ],
+   "sha256": "3fbd11bccac30ec86d12cf1c8289f49921ad8f25988efdb449c1cbb96074da0c"
   }
  },
  "schema": 1

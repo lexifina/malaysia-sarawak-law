@@ -994,6 +994,34 @@
      "sha256": "bbae225780b5bba58b500886395011e8f83f04955757727b5856b13debea640f"
     }
    ]
+  },
+  {
+   "slug": "public-parks-and-greens-ordinance-1993",
+   "short": "Public Parks And Greens Ordinance, 1993",
+   "title": "Public Parks And Greens Ordinance, 1993 (Cap. 3)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%203%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 19,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_Cap.%203%20LawNet%202024.pdf",
+     "sha256": "2364fe2a0a796e6c4cdc2154b2cbbca52013abb2ae772a7e782ce7708ad8b568"
+    }
+   ]
+  },
+  {
+   "slug": "sarawak-rivers-ordinance-1993",
+   "short": "Sarawak Rivers Ordinance, 1993",
+   "title": "Sarawak Rivers Ordinance, 1993 (Cap. 4)",
+   "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%204%20LawNet%202024.pdf",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 39,
+     "source_url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_CAP.%204%20LawNet%202024.pdf",
+     "sha256": "8ef1f9dff933ff52e705e873a4dc25c41c4a8fe55a53dd12b1d8867974162112"
+    }
+   ]
   }
  ]
 }

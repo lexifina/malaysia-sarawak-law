@@ -9,6 +9,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Sarawak LawNet (State Attorney-General's Chambers, Sarawak): "Laws of Sarawak", online versions of the updated text of the reprints of the Ordinances | <https://lawnet.sarawak.gov.my/lawnet/Law/TLnetPublishedOrdList.jsp?LTyp=All> | 2026-10-30 | Text of the Ordinances of Sarawak as published on Sarawak LawNet (lawnet.sarawak.gov.my) by the State Attorney-General's Chambers, Sarawak ("Copyright 2011 Sarawak Government. All Rights Reserved."). Official texts of a legislative nature are not literary works under the Copyright Act 1987 [Act 332], section 3, definition of "literary work": "... but does not include official texts of the Government or statutory bodies of a legislative or regulatory nature, or judicial decisions, or political speeches and political debates, or speeches delivered in the course of legal proceedings, and the official translation thereof". |
 | Sarawak LawNet (State Attorney-General's Chambers, Sarawak): "Laws of Sarawak", online versions of the updated text of the reprints of the Ordinances | <https://lawnet.sarawak.gov.my/lawnet/Law/TLnetPublishedOrdList.jsp?LTyp=All> | 2026-10-30 | Text of the Ordinances of Sarawak as published on Sarawak LawNet (lawnet.sarawak.gov.my) by the State Attorney-General's Chambers, Sarawak ("Copyright 2011 Sarawak Government. All Rights Reserved."). Official texts of a legislative nature are not literary works under the Copyright Act 1987 [Act 332], section 3, definition of "literary work": "... but does not include official texts of the Government or statutory bodies of a legislative or regulatory nature, or judicial decisions, or political speeches and political debates, or speeches delivered in the course of legal proceedings, and the official translation thereof". |
 | Sarawak LawNet (State Attorney-General's Chambers, Sarawak): "Laws of Sarawak", online versions of the updated text of the reprints of the Ordinances | <https://lawnet.sarawak.gov.my/lawnet/Law/TLnetPublishedOrdList.jsp?LTyp=All> | 2026-10-30 | Text of the Ordinances of Sarawak as published on Sarawak LawNet (lawnet.sarawak.gov.my) by the State Attorney-General's Chambers, Sarawak ("Copyright 2011 Sarawak Government. All Rights Reserved."). Official texts of a legislative nature are not literary works under the Copyright Act 1987 [Act 332], section 3, definition of "literary work": "... but does not include official texts of the Government or statutory bodies of a legislative or regulatory nature, or judicial decisions, or political speeches and political debates, or speeches delivered in the course of legal proceedings, and the official translation thereof". |
+| Sarawak LawNet (State Attorney-General's Chambers, Sarawak): Laws of Sarawak online reprints | <https://lawnet.sarawak.gov.my/lawnet/Law/TLnetPublishedOrdList.jsp?LTyp=All> | 2026-11-05 | Text of the Ordinances of Sarawak as published on Sarawak LawNet (lawnet.sarawak.gov.my) by the State Attorney-General's Chambers, Sarawak ("Copyright 2011 Sarawak Government. All Rights Reserved."). Official texts of a legislative nature are not literary works under the Copyright Act 1987 [Act 332], section 3, definition of "literary work": "... but does not include official texts of the Government or statutory bodies of a legislative or regulatory nature, or judicial decisions, or political speeches and political debates, or speeches delivered in the course of legal proceedings, and the official translation thereof". |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -87,12 +88,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `syariah-criminal-procedure-ordinance-2001` | Syariah Criminal Procedure Ordinance, 2001 (Cap. 45) | 1 | 2007-03-31 to 2007-03-31 |
 | `veterinary-public-health-ordinance-1999` | Veterinary Public Health Ordinance, 1999 (Cap. 32) | 1 | 2024-12-31 to 2024-12-31 |
 | `wild-life-protection-ordinance-1998` | Wild Life Protection Ordinance, 1998 (Cap. 26) | 1 | 2008-06-30 to 2008-06-30 |
+| `public-parks-and-greens-ordinance-1993` | Public Parks And Greens Ordinance, 1993 (Cap. 3) | 1 | 2004-01-01 to 2004-01-01 |
+| `sarawak-rivers-ordinance-1993` | Sarawak Rivers Ordinance, 1993 (Cap. 4) | 1 | 2007-01-01 to 2007-01-01 |
 
-The build made 71 commits:
+The build made 73 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 71 | first version of an act |
+| 73 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -100,30 +103,32 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 71 tags.
+- 73 tags.
 
 ## Dates
 
 Each commit is dated at noon (Asia/Kuching) on the day the change took effect. The other dates, enacted and published, are trailers.
 
-When a law gives no date of its own, the default rule applies: Each reprint states the date up to which it incorporates all amendments; this record dates each Ordinance by that date, so no in-force day is derived from a general rule. https://lawnet.sarawak.gov.my/lawnet/Law/TLnetPublishedOrdList.jsp?LTyp=All
+When a law gives no date of its own, the default rule applies: A reprint with a dated cover is recorded as of its stated amendments-incorporated-through day. If the cover lacks that date and the final List of Amendments gives the latest amendment's in-force day, the record uses that source date. Each version states its own date basis. https://lawnet.sarawak.gov.my/lawnet/Law/TLnetPublishedOrdList.jsp?LTyp=All
 
 ## How the history is built
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f6e06ab28e85c9c1a081926e8d4b031383078fa4124cefc95d7b2dcb06f75634` (3637024 bytes).
+- Corpus: sha256 `5f0f53c916791e671bc34d0d7526dbc732d434bcfe14ac579c637d28ae1efa14` (3722521 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-71 versions of 71 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- The canonical corpus path is malaysia/sarawak/acts; Sarawak is subdivision MY-13 of Malaysia.
+- Published reprints with an amendments-incorporated-through cover date use that cover date. Public Parks and Greens and Sarawak Rivers instead use the dated final List of Amendments entries documented in 20-ordinances-04.json.
 - Current text only: each LawNet reprint gives the Ordinance incorporating all amendments up to a stated date, with no earlier consolidated text online, so each Ordinance is one version ("oldest version available", first_law null), dated by that date and credited to the State Attorney-General's Chambers, not to an amending law.
 - The amendment notes printed under provisions ("[Am. Ord. No. 3/60.]", "[Ins. Cap. A224]") stay in the text as printed; they are not replayed as history.
 - One file per section; the title, long title and date of the Ordinance are "000-title", and each Schedule its own file. Part and Chapter headings stand above the first section under them; each section file gives its heading (printed above the section) on the line before the section text.
@@ -140,6 +145,12 @@ No second build of this corpus has been compared yet.
 - Left out: the cover, the revision page, the arrangement of sections, running heads and page numbers, and the "List of Amendments" tables at the back of a reprint.
 - An Ordinance is left out when its reprint cannot be read reliably (tables in its Schedules or forms that the independent check does not find in the same order) or its cover states no "amendments up to" date.
 - From this part on, each page is read in the order the PDF draws its lines (the order the independent pdftotext reading gives): a table in a section or Schedule is read cell by cell, each cell's wrapped lines together, rather than row by row across its cells. Its layout is not kept.
+- Current reprint text only, first_law null: each act has one oldest available version credited to the publisher.
+- The version date is the latest amendment's own in-force date in the PDF's List of Amendments, not the date of retrieval or the original commencement.
+- Public Parks And Greens Ordinance, 1993 (Cap. 3): List of Amendments, PDF p. 21: Cap. A107, Public Parks and Greens (Amendment) Ordinance, 2003, 'In force from 1.1.2004'.
+- Sarawak Rivers Ordinance, 1993 (Cap. 4): List of Amendments, PDF p. 38: Cap. A127, Sarawak Rivers (Amendment) Ordinance, 2006, 'In force from 1.1.2007'.
+- The source's printed amendment notes remain in the text. The List of Amendments tables themselves are source metadata and are excluded from the law body.
+- Each source PDF has a decorative cover crest. Sarawak Rivers also has one embedded 2 by 2 pixel square after 'shall' in section 8 (PDF p. 13); it is deferred under the pre-asset-sync rule and listed in the job's images-deferred.tsv.
 
 ## What AI did and did not do
 
@@ -150,6 +161,8 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- GPT-6 prepared metadata only; this part contains no law text.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the reprint PDFs.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the reprint PDFs.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the reprint PDFs.
+- GPT-6 selected source dates and prepared metadata and checking code; it supplied no legal text. Every law-text character comes from the official PDF text layer.
