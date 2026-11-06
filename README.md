@@ -1,5 +1,7 @@
 # Sarawak: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Sarawak, Malaysia, which global-law reads at `malaysia/sarawak/acts/`.
+
 The Ordinances of the State of Sarawak (Malaysia) as a git history: one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text of the State Attorney-General's Chambers' online reprints on Sarawak LawNet.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
